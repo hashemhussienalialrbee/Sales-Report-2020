@@ -51,7 +51,7 @@ Detailed insight into products such as:
 
 ## 🖼 Dashboard Preview
 
-![Sales Report 2020]("Sales Report 2020.png")
+![Sales Report 2020](Sales%20Report%202020.png)
 
 
 
