@@ -53,7 +53,7 @@ Detailed insight into products such as:
 
 ![Sales Report 2020](Sales Report 2020.png)
 
-> Make sure the image file name matches exactly: **Sales Report 2020.png**
+
 
 ---
 
